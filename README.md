@@ -1,2 +1,2 @@
-# Simple-API-test
-simple test of API integration
+# WIP
+Just planning on testing out more go applications. 
